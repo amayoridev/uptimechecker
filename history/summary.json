@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ndqm.eu.org.ico",
     "slug": "main",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "78.14%",
+    "uptimeDay": "78.14%",
+    "uptimeWeek": "78.14%",
+    "uptimeMonth": "78.14%",
+    "uptimeYear": "78.14%",
     "time": 7700,
     "timeDay": 7700,
     "timeWeek": 7700,
     "timeMonth": 7700,
     "timeYear": 7700,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-05": 0
+    }
   },
   {
     "name": "GDrive Viewer",
