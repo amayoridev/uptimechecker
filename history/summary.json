@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ndqm.eu.org.ico",
     "slug": "main",
     "status": "down",
-    "uptime": "78.14%",
-    "uptimeDay": "78.14%",
-    "uptimeWeek": "78.14%",
-    "uptimeMonth": "78.14%",
-    "uptimeYear": "78.14%",
-    "time": 7700,
-    "timeDay": 7700,
-    "timeWeek": 7700,
-    "timeMonth": 7700,
-    "timeYear": 7700,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 7714,
+    "timeDay": 7714,
+    "timeWeek": 7714,
+    "timeMonth": 7714,
+    "timeYear": 7714,
     "dailyMinutesDown": {
-      "2026-04-05": 0
+      "2026-04-06": 85,
+      "2026-04-05": 623
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 342,
+    "timeDay": 342,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   }
 ]
