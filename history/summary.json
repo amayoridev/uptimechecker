@@ -49,16 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowrocket.ndqm.eu.org.ico",
     "slug": "shadowrocket-host",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "9.12%",
+    "uptimeDay": "9.12%",
+    "uptimeWeek": "9.12%",
+    "uptimeMonth": "9.12%",
+    "uptimeYear": "9.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-11": 0
+    }
   }
 ]
