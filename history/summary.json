@@ -16,7 +16,7 @@
     "timeMonth": 5513,
     "timeYear": 5513,
     "dailyMinutesDown": {
-      "2026-04-11": 1162,
+      "2026-04-11": 1193,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
@@ -48,19 +48,19 @@
     "url": "https://shadowrocket.ndqm.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/shadowrocket.ndqm.eu.org.ico",
     "slug": "shadowrocket-host",
-    "status": "down",
-    "uptime": "95.48%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "95.48%",
-    "uptimeMonth": "95.48%",
-    "uptimeYear": "95.48%",
-    "time": 425,
-    "timeDay": 425,
-    "timeWeek": 425,
-    "timeMonth": 425,
-    "timeYear": 425,
+    "status": "up",
+    "uptime": "87.39%",
+    "uptimeDay": "87.39%",
+    "uptimeWeek": "87.39%",
+    "uptimeMonth": "87.39%",
+    "uptimeYear": "87.39%",
+    "time": 368,
+    "timeDay": 368,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2026-04-11": 15
+      "2026-04-11": 46
     }
   }
 ]
